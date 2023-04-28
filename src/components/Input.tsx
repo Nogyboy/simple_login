@@ -1,7 +1,3 @@
-export default function Input(){
-    return(
-        <>
-            
-        </>
-    )
+export default function Input() {
+  return <></>;
 }
